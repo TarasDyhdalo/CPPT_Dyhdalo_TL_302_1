@@ -1,0 +1,16 @@
+Parameterized Plant (abstract) constructor used.
+Tree created. Age: 5, Fruit: Apple
+Stem name: Apple trunk, Root depth: 60, Leaf color: Green
+Tree specific details -> Age: 5, Fruit: Apple (Yield: 40)
+Plant watered. Health: 95
+Plant received sunlight. Height now: 301
+Plant grew by 10 cm. New height: 311
+Tree 'Apple trunk' aged. New age: 6
+New fruit grown. Total yield: 60
+The tree 'Apple trunk' is performing seasonal activity.
+25 leaves were dropped during seasonal activity.
+Harvesting 60 units of Apple from Apple trunk
+Plant grew by 10 cm. New height: 321
+Tree 'Apple trunk' aged. New age: 7
+New fruit grown. Total yield: 20
+Plant resources closed.

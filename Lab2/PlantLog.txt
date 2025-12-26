@@ -1,0 +1,8 @@
+Stem name: Stem, Root depth: 5, Leaf color: Green
+Plant grew by 5 cm. New height: 20
+Plant watered. Health: 85
+Plant received sunlight. Height now: 22
+New leaf grew. Total leaves: 4
+Leaf dropped. Remaining leaves: 3
+Plant damaged by 20. Health now: 65
+Plant resources closed.
